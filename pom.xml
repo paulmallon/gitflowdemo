@@ -10,7 +10,7 @@
     </parent>
     <groupId>nullterrier.com</groupId>
     <artifactId>demo</artifactId>
-    <version>A.19.1/version>
+    <version>A.19.1</version>
     <name>demo</name>
     <description>Git flow demo project for Softronic</description>
 
